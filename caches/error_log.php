@@ -1,0 +1,1 @@
+<?php exit;?>06-17 20:55:36 | 2 | mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) | F:\phpStudy\WWW\phpcms\install\install.php | 351
